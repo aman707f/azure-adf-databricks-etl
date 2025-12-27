@@ -1,0 +1,4 @@
+transaction_id,product_id,quantity,price,transaction_date
+1,101,2,500,2023-01-01
+2,102,1,1200,2023-01-02
+3,103,5,300,2023-01-03
